@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.talend.designer.runprocess.jobLaunchConfiguration">
+    <stringAttribute key="CURRENT_PROJECT_NAME" value="OLTP_to_OLAP"/>
+    <stringAttribute key="JOB_PROJECT_TECH_LABEL" value="OLTP_TO_OLAP"/>
+    <stringAttribute key="TALEND_JOB_ID" value="_U1ycAI19Ee28Vvs_kBTrkg"/>
+    <stringAttribute key="TALEND_JOB_NAME" value="talendTestJob"/>
+    <stringAttribute key="TALEND_JOB_VERSION" value="0.1"/>
+</launchConfiguration>

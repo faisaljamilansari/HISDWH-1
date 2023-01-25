@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_0u5gUJFnEe2dSJmyU7gRvQ" id="_0u3rIJFnEe2dSJmyU7gRvQ" label="JB_LOAD_LEGAL_AFFAIRS_CONTRACT_DETAILS" purpose="Load data from HIS" description="This Job will read data from HIS and load into DWH" version="0.1" statusCode="" item="_0u5gUpFnEe2dSJmyU7gRvQ" displayName="JB_LOAD_LEGAL_AFFAIRS_CONTRACT_DETAILS">
+    <author href="../../talend.project#_N-8m4ZrtEe21neGGVc7Pxw"/>
+    <additionalProperties xmi:id="_0u-Y0JFnEe2dSJmyU7gRvQ" key="created_product_fullname" value="Talend Open Studio for Data Integration"/>
+    <additionalProperties xmi:id="_0u-Y0ZFnEe2dSJmyU7gRvQ" key="created_product_version" value="8.0.1.20211109_1610"/>
+    <additionalProperties xmi:id="_0u-Y0pFnEe2dSJmyU7gRvQ" key="created_date" value="2023-01-11T09:24:22.493+0500"/>
+    <additionalProperties xmi:id="_0u-Y05FnEe2dSJmyU7gRvQ" key="modified_product_fullname" value="Talend Open Studio for Data Integration"/>
+    <additionalProperties xmi:id="_0u-Y1JFnEe2dSJmyU7gRvQ" key="modified_product_version" value="8.0.1.20211109_1610"/>
+    <additionalProperties xmi:id="_0u-Y1ZFnEe2dSJmyU7gRvQ" key="modified_date" value="2023-01-23T18:31:33.024+0500"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_a-MkMJrwEe2xJOQpOX-0kw" path="Stage" locked="true" lockDate="2023-01-23T15:05:13.101+0500">
+    <locker href="../../talend.project#_N-8m4ZrtEe21neGGVc7Pxw"/>
+  </TalendProperties:ItemState>
+  <TalendProperties:ProcessItem xmi:id="_0u5gUpFnEe2dSJmyU7gRvQ" property="_0u5gUJFnEe2dSJmyU7gRvQ" state="_a-MkMJrwEe2xJOQpOX-0kw">
+    <process href="JB_LOAD_LEGAL_AFFAIRS_CONTRACT_DETAILS_0.1.item#/"/>
+  </TalendProperties:ProcessItem>
+</xmi:XMI>

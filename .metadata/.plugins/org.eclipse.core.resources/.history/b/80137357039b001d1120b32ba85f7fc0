@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd">
+  <talendfile:ContextType xmi:id="_Rku4oJFnEe2dSJmyU7gRvQ" confirmationNeeded="false" name="DEV">
+    <contextParameter xmi:id="_Rku4oZFnEe2dSJmyU7gRvQ" comment="" name="source_host" prompt="source_host?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="192.192.8.212"/>
+    <contextParameter xmi:id="_Rku4opFnEe2dSJmyU7gRvQ" comment="" name="source_port" prompt="source_port?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="1521"/>
+    <contextParameter xmi:id="_Rku4o5FnEe2dSJmyU7gRvQ" comment="" name="source_database" prompt="source_database?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="devdb"/>
+    <contextParameter xmi:id="_Rku4pJFnEe2dSJmyU7gRvQ" comment="" name="source_schema" prompt="source_schema?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+    <contextParameter xmi:id="_Rku4pZFnEe2dSJmyU7gRvQ" comment="" name="source_login" prompt="source_login?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="usman"/>
+    <contextParameter xmi:id="_Rku4ppFnEe2dSJmyU7gRvQ" comment="" name="source_password" prompt="source_password?" promptNeeded="false" repositoryContextId="built-in" type="id_Password" value="enc:system.encryption.key.v1:QfmZFXZDtXzsfJmG9o3dPCkwmj28uQ1atNnIXdZKLhu9pk2I"/>
+    <contextParameter xmi:id="_Rku4p5FnEe2dSJmyU7gRvQ" comment="" name="source_additionalParam" prompt="source_additionalParam?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+    <contextParameter xmi:id="_7KVSgJYkEe2mH7uVdsTIDw" comment="" name="target_host" prompt="target_host?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="192.192.8.206"/>
+    <contextParameter xmi:id="_7KVSgZYkEe2mH7uVdsTIDw" comment="" name="target_port" prompt="target_port?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="1525"/>
+    <contextParameter xmi:id="_7KVSgpYkEe2mH7uVdsTIDw" comment="" name="target_database" prompt="target_database?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="dwhdev"/>
+    <contextParameter xmi:id="_7KVSg5YkEe2mH7uVdsTIDw" comment="" name="target_stg_schema" prompt="target_stg_schema?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="stg"/>
+    <contextParameter xmi:id="_7KVShJYkEe2mH7uVdsTIDw" comment="" name="target_dwh_schema" prompt="target_dwh_schema?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="dwh"/>
+    <contextParameter xmi:id="_7KVShZYkEe2mH7uVdsTIDw" comment="" name="target_login" prompt="target_login?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="dwteam"/>
+    <contextParameter xmi:id="_7KVShpYkEe2mH7uVdsTIDw" comment="" name="target_password" prompt="target_password?" promptNeeded="false" repositoryContextId="built-in" type="id_Password" value=""/>
+    <contextParameter xmi:id="_7KVSh5YkEe2mH7uVdsTIDw" comment="" name="target_additionalParam" prompt="target_additionalParam?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+    <contextParameter xmi:id="_ZV55QJYlEe2mH7uVdsTIDw" comment="" name="filePath" prompt="filePath?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+  </talendfile:ContextType>
+  <talendfile:ContextType xmi:id="_Rku4qJFnEe2dSJmyU7gRvQ" confirmationNeeded="false" name="PROD">
+    <contextParameter xmi:id="_Rku4qZFnEe2dSJmyU7gRvQ" comment="" name="source_host" prompt="source_host?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+    <contextParameter xmi:id="_Rku4qpFnEe2dSJmyU7gRvQ" comment="" name="source_port" prompt="source_port?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+    <contextParameter xmi:id="_Rku4q5FnEe2dSJmyU7gRvQ" comment="" name="source_database" prompt="source_database?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+    <contextParameter xmi:id="_Rku4rJFnEe2dSJmyU7gRvQ" comment="" name="source_schema" prompt="source_schema?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+    <contextParameter xmi:id="_Rku4rZFnEe2dSJmyU7gRvQ" comment="" name="source_login" prompt="source_login?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+    <contextParameter xmi:id="_Rku4rpFnEe2dSJmyU7gRvQ" comment="" name="source_password" prompt="source_password?" promptNeeded="false" repositoryContextId="built-in" type="id_Password" value=""/>
+    <contextParameter xmi:id="_Rku4r5FnEe2dSJmyU7gRvQ" comment="" name="source_additionalParam" prompt="source_additionalParam?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+    <contextParameter xmi:id="_7KVSiJYkEe2mH7uVdsTIDw" comment="" name="target_host" prompt="target_host?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+    <contextParameter xmi:id="_7KVSiZYkEe2mH7uVdsTIDw" comment="" name="target_port" prompt="target_port?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+    <contextParameter xmi:id="_7KVSipYkEe2mH7uVdsTIDw" comment="" name="target_database" prompt="target_database?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+    <contextParameter xmi:id="_7KVSi5YkEe2mH7uVdsTIDw" comment="" name="target_stg_schema" prompt="target_stg_schema?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+    <contextParameter xmi:id="_7KVSjJYkEe2mH7uVdsTIDw" comment="" name="target_dwh_schema" prompt="target_dwh_schema?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+    <contextParameter xmi:id="_7KVSjZYkEe2mH7uVdsTIDw" comment="" name="target_login" prompt="target_login?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+    <contextParameter xmi:id="_7KVSjpYkEe2mH7uVdsTIDw" comment="" name="target_password" prompt="target_password?" promptNeeded="false" repositoryContextId="built-in" type="id_Password" value=""/>
+    <contextParameter xmi:id="_7KVSj5YkEe2mH7uVdsTIDw" comment="" name="target_additionalParam" prompt="target_additionalParam?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+    <contextParameter xmi:id="_ZV55QZYlEe2mH7uVdsTIDw" comment="" name="filePath" prompt="filePath?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+  </talendfile:ContextType>
+  <talendfile:ContextType xmi:id="_Rku4sJFnEe2dSJmyU7gRvQ" confirmationNeeded="false" name="QA">
+    <contextParameter xmi:id="_Rku4sZFnEe2dSJmyU7gRvQ" comment="" name="source_host" prompt="source_host?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+    <contextParameter xmi:id="_Rku4spFnEe2dSJmyU7gRvQ" comment="" name="source_port" prompt="source_port?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+    <contextParameter xmi:id="_Rku4s5FnEe2dSJmyU7gRvQ" comment="" name="source_database" prompt="source_database?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+    <contextParameter xmi:id="_Rku4tJFnEe2dSJmyU7gRvQ" comment="" name="source_schema" prompt="source_schema?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+    <contextParameter xmi:id="_Rku4tZFnEe2dSJmyU7gRvQ" comment="" name="source_login" prompt="source_login?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+    <contextParameter xmi:id="_Rku4tpFnEe2dSJmyU7gRvQ" comment="" name="source_password" prompt="source_password?" promptNeeded="false" repositoryContextId="built-in" type="id_Password" value=""/>
+    <contextParameter xmi:id="_Rku4t5FnEe2dSJmyU7gRvQ" comment="" name="source_additionalParam" prompt="source_additionalParam?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+    <contextParameter xmi:id="_7KVSkJYkEe2mH7uVdsTIDw" comment="" name="target_host" prompt="target_host?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+    <contextParameter xmi:id="_7KVSkZYkEe2mH7uVdsTIDw" comment="" name="target_port" prompt="target_port?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+    <contextParameter xmi:id="_7KVSkpYkEe2mH7uVdsTIDw" comment="" name="target_database" prompt="target_database?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+    <contextParameter xmi:id="_7KVSk5YkEe2mH7uVdsTIDw" comment="" name="target_stg_schema" prompt="target_stg_schema?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+    <contextParameter xmi:id="_7KVSlJYkEe2mH7uVdsTIDw" comment="" name="target_dwh_schema" prompt="target_dwh_schema?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+    <contextParameter xmi:id="_7KVSlZYkEe2mH7uVdsTIDw" comment="" name="target_login" prompt="target_login?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+    <contextParameter xmi:id="_7KVSlpYkEe2mH7uVdsTIDw" comment="" name="target_password" prompt="target_password?" promptNeeded="false" repositoryContextId="built-in" type="id_Password" value=""/>
+    <contextParameter xmi:id="_7KVSl5YkEe2mH7uVdsTIDw" comment="" name="target_additionalParam" prompt="target_additionalParam?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+    <contextParameter xmi:id="_ZV55QpYlEe2mH7uVdsTIDw" comment="" name="filePath" prompt="filePath?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+  </talendfile:ContextType>
+  <talendfile:ContextType xmi:id="_Rku4uJFnEe2dSJmyU7gRvQ" confirmationNeeded="false" name="UAT">
+    <contextParameter xmi:id="_Rku4uZFnEe2dSJmyU7gRvQ" comment="" name="source_host" prompt="source_host?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+    <contextParameter xmi:id="_Rku4upFnEe2dSJmyU7gRvQ" comment="" name="source_port" prompt="source_port?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+    <contextParameter xmi:id="_Rku4u5FnEe2dSJmyU7gRvQ" comment="" name="source_database" prompt="source_database?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+    <contextParameter xmi:id="_Rku4vJFnEe2dSJmyU7gRvQ" comment="" name="source_schema" prompt="source_schema?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+    <contextParameter xmi:id="_Rku4vZFnEe2dSJmyU7gRvQ" comment="" name="source_login" prompt="source_login?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+    <contextParameter xmi:id="_Rku4vpFnEe2dSJmyU7gRvQ" comment="" name="source_password" prompt="source_password?" promptNeeded="false" repositoryContextId="built-in" type="id_Password" value=""/>
+    <contextParameter xmi:id="_Rku4v5FnEe2dSJmyU7gRvQ" comment="" name="source_additionalParam" prompt="source_additionalParam?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+    <contextParameter xmi:id="_7KVSmJYkEe2mH7uVdsTIDw" comment="" name="target_host" prompt="target_host?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+    <contextParameter xmi:id="_7KVSmZYkEe2mH7uVdsTIDw" comment="" name="target_port" prompt="target_port?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+    <contextParameter xmi:id="_7KVSmpYkEe2mH7uVdsTIDw" comment="" name="target_database" prompt="target_database?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+    <contextParameter xmi:id="_7KVSm5YkEe2mH7uVdsTIDw" comment="" name="target_stg_schema" prompt="target_stg_schema?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+    <contextParameter xmi:id="_7KVSnJYkEe2mH7uVdsTIDw" comment="" name="target_dwh_schema" prompt="target_dwh_schema?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+    <contextParameter xmi:id="_7KVSnZYkEe2mH7uVdsTIDw" comment="" name="target_login" prompt="target_login?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+    <contextParameter xmi:id="_7KVSnpYkEe2mH7uVdsTIDw" comment="" name="target_password" prompt="target_password?" promptNeeded="false" repositoryContextId="built-in" type="id_Password" value=""/>
+    <contextParameter xmi:id="_7KVSn5YkEe2mH7uVdsTIDw" comment="" name="target_additionalParam" prompt="target_additionalParam?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+    <contextParameter xmi:id="_ZV55Q5YlEe2mH7uVdsTIDw" comment="" name="filePath" prompt="filePath?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+  </talendfile:ContextType>
+</xmi:XMI>
